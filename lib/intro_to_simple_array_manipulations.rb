@@ -10,6 +10,6 @@ def using_pop(arr)
   arr.pop
 end 
 
-def using_pop_with_args(arr, amount)
-  arr.pop(amount)
+def using_pop_with_args(arr)
+  arr.pop(2)
 end 
