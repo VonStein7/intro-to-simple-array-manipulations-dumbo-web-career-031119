@@ -30,12 +30,12 @@ def using_insert(arr, el)
   arr.insert(4,el)
 end
 
-def using_uniq
-  
+def using_uniq(arr)
+  arr.uniq
 end
 
-def using_flatten
-  
+def using_flatten(arr)
+  arr.flatten
 end
 
 def using_delete
